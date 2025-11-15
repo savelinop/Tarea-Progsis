@@ -1,0 +1,3 @@
+steven,1234,Steven Avelino
+ariel,abcd,Ariel Avelino
+admin,admin,Administrador
