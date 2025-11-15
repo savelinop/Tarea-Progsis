@@ -1,4 +1,4 @@
-P001,Laptop Acer Aspire 5,5,450.00,599.99
-P002,Mouse Logitech M185,38,7.50,12.90
+P001,Laptop Acer Aspire 5,2,450.00,599.99
+P002,Mouse Logitech M185,28,7.50,12.90
 P003,Teclado Redragon Kumara,20,22.00,34.99
 P004,Monitor Samsung 24,6,95.00,129.90
